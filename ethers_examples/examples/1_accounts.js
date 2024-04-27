@@ -15,13 +15,3 @@ const main = async () => {
 };
 
 main();
-
-// import { ethers } from "ethers";
-
-// const INFURA_ID = "2ead481d72884af881fe73114547e08a";
-
-// const provider = ethers.providers.JsonRpcProvider(
-//   `https://mainnet.infura.io/v3/${INFURA_ID}`
-// );
-
-// provider.getBalance("0x6aF87452fa7c362058Ef0dE4F733B094F7A35004");
